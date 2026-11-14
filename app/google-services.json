@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275204326055",
+    "project_id": "apph-ef9b3",
+    "storage_bucket": "apph-ef9b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275204326055:android:77154da3c7fac4fbf2d182",
+        "android_client_info": {
+          "package_name": "com.example.wallpaperapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBO9hqWTOBHC8JQ1uuP9HUV1jcW4JBw4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
